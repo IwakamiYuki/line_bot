@@ -8,6 +8,10 @@
 
 ## 準備作業
 
+### LINE BOTをGoogle Apps Scriptで利用できるようにする
+以下のサイトを見ながら設定できました！
+> [Line BotをGoogle App Scriptで無料で手軽に試してみる。](http://qiita.com/osamu1203/items/0de2909821a1b3cbb350)
+
 ### config(Googleスプレッドシート)に記入する
 
 それぞれのパラメータ名(A列)に対するパラメータをB列に記入する
