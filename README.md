@@ -4,6 +4,8 @@
 - 場所(予定の内容)によって通知する時間を変更することができる
    - 例えば、``[会議室]A``の場合は15分前に通知させることができる
 
+	 ![image1](https://raw.githubusercontent.com/IwakamiYuki/line_bot/master/image/line1.png)
+
 ## 準備作業
 
 ### config(Googleスプレッドシート)に記入する
