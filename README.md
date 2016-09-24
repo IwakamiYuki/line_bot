@@ -49,6 +49,7 @@ A列に場所、B列に時間(分)を記入する
 Google Apps Scriptのトリガーの設定をする
 
 |実行|イベント|
+|:-:|:-:|
 |checkSchedule|時間主導型 分タイマー 1分ごと|
 
 ![image2](https://raw.githubusercontent.com/IwakamiYuki/line_bot/master/image/gas1.png)
