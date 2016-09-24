@@ -11,7 +11,7 @@
 それぞれのパラメータ名(A列)に対するパラメータをB列に記入する
 
 | A | B |
-|:-|:-|
+|:-:|:-:|
 |lineChannelId|LINE developersのchannel id|
 |lineChannelSecretId|LINE developersのchannel secret|
 |lineMid|LINE developersのMID|
