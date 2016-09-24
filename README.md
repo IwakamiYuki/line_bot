@@ -11,6 +11,7 @@
 ### LINE BOTをGoogle Apps Scriptで利用できるようにする
 以下のサイトを見ながら設定できました！
 > [Line BotをGoogle App Scriptで無料で手軽に試してみる。](http://qiita.com/osamu1203/items/0de2909821a1b3cbb350)
+`src/main.js`の`①送信者のmidを返す`の行のコメントアウトを外すと自分のLINEアカウントのMIDを返してくれます
 
 ### config(Googleスプレッドシート)に記入する
 
