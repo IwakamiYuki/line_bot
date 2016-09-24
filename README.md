@@ -43,3 +43,12 @@ A列に場所、B列に時間(分)を記入する
 |[会議室]A|15|
 |[会議室]B|5|
 |[会議室]|1|
+
+### トリガーの設定をする
+
+Google Apps Scriptのトリガーの設定をする
+
+|実行|イベント|
+|checkSchedule|時間主導型 分タイマー 1分ごと|
+
+![image2](https://raw.githubusercontent.com/IwakamiYuki/line_bot/master/image/gas1.png)
