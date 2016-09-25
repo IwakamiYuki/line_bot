@@ -1,14 +1,15 @@
 # Googleカレンダーの予定をLINE BOTを使って通知させよう！
 
-- Googleカレンダーに登録されている予定をLINEに通知する
-- 場所(予定の内容)によって通知する時間を変更することができる
-   - 例えば、デフォルトでは1分前だが``[会議室]A``の場合は15分前に通知させることができる
+Googleカレンダーに登録されている予定をLINEに通知する
+場所(予定の内容)によって通知する時間を変更することができる
 
-	 ![image1](https://raw.githubusercontent.com/IwakamiYuki/line_bot/master/image/line1.png)
+  例えば、デフォルトでは1分前だが**[会議室]A**の場合は15分前に通知させることができる
 
-- Google Apps Scriptを使っています
+  ![image1](https://raw.githubusercontent.com/IwakamiYuki/line_bot/master/image/line1.png)
 
-gitからGASに反映させる方法はこちらにまとめてあります
+Google Apps Scriptを使っています
+
+GASとgit連携についてはこちらにまとめてあります
 
 > [https://github.com/IwakamiYuki/gas_sample](https://github.com/IwakamiYuki/gas_sample#このgas_sampleを自分のgoogleドライブのgoogle-apps-scriptに反映させる)
 
@@ -18,9 +19,11 @@ gitからGASに反映させる方法はこちらにまとめてあります
 以下のサイトを見ながら設定できました！
 > [Line BotをGoogle App Scriptで無料で手軽に試してみる。](http://qiita.com/osamu1203/items/0de2909821a1b3cbb350)
 
+LINE BOTがGASから使えるようになればOKです。
+
 ### 自分のLINEアカウントのMIDを取得する
 
-`src/main.js`の`①送信者のmidを返す`の行のコメントアウトを外すと自分のLINEアカウントのMIDを返してくれます
+**src/main.js**の**①送信者のmidを返す**の行のコメントアウトを外すと自分のLINEアカウントのMIDを返してくれます
 
 ### config(Googleスプレッドシート)に記入する
 
