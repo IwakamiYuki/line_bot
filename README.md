@@ -8,6 +8,10 @@
 
 - Google Apps Scriptを使っています
 
+gitからGASに反映させる方法はこちらにまとめてあります
+
+> [https://github.com/IwakamiYuki/gas_sample](https://github.com/IwakamiYuki/gas_sample)
+
 ## 準備作業
 
 ### LINE BOTをGoogle Apps Scriptで利用できるようにする
