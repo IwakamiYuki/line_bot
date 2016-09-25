@@ -10,7 +10,7 @@
 
 gitからGASに反映させる方法はこちらにまとめてあります
 
-> [https://github.com/IwakamiYuki/gas_sample](https://github.com/IwakamiYuki/gas_sample)
+> [https://github.com/IwakamiYuki/gas_sample](https://github.com/IwakamiYuki/gas_sample#このgas_sampleを自分のgoogleドライブのgoogle-apps-scriptに反映させる)
 
 ## 準備作業
 
